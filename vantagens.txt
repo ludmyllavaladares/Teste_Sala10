@@ -1,4 +1,12 @@
 Trabalho em equipe
+<<<<<<< HEAD
 
 
 Trabalho em equipe
+=======
+<<<<<<< HEAD
+Todos vamos decolar!!!
+=======
+Um dos benefícios do git é a opção de compatilhamento do trabalho e a distribuição do processamento.
+>>>>>>> 47acbc383790ef80e358a8a03ea55cd1c6975a78
+>>>>>>> e2c5fe6959a59a330c5290c40a0f2c34ba5ad988
