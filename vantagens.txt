@@ -1,3 +1,6 @@
 Trabalho em equipe
 Controle de versões do código
 Um dos benefícios do git é a opção de compatilhamento do trabalho e a distribuição do processamento.
+Trabalho em equipe
+Todos vamos decolar!!!
+Um dos benefícios do git é a opção de compatilhamento do trabalho e a distribuição do processamento.
