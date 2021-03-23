@@ -1,1 +1,2 @@
 Trabalho em equipe
+Controle de versões do código
