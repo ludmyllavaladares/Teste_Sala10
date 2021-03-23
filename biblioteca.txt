@@ -1,1 +1,10 @@
 git init
+git commit -m
+git push
+git push origin
+git remote -u
+git branch
+git add
+git status
+git pull
+git clone 
