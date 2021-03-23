@@ -1,1 +1,2 @@
 Trabalho em equipe
+Um dos benefícios do git é a opção de compatilhamento do trabalho e a distribuição do processamento.
